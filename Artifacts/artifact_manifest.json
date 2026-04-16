@@ -1,0 +1,20 @@
+{
+  "base_dir": "/kaggle/working",
+  "artifacts_dir": "/kaggle/working/artifacts",
+  "coco_train_json": "/kaggle/working/artifacts/coco/train.json",
+  "coco_val_json": "/kaggle/working/artifacts/coco/val.json",
+  "latest_checkpoint": "/kaggle/working/artifacts/detector/detector_latest.pth",
+  "detector_checkpoints_dir": "/kaggle/working/artifacts/detector",
+  "train_history_json": "/kaggle/working/artifacts/detector/train_history.json",
+  "train_history_csv": "/kaggle/working/artifacts/detector/train_history.csv",
+  "mot_detections_dir": "/kaggle/working/artifacts/mot/detections",
+  "mot_tracks_dir": "/kaggle/working/artifacts/mot/tracks",
+  "mot_summary_json": "/kaggle/working/artifacts/mot/mot_inference_summary.json",
+  "tracking_metrics_json": "/kaggle/working/artifacts/mot/tracking_metrics.json",
+  "tracking_metrics_csv": "/kaggle/working/artifacts/mot/tracking_per_sequence.csv",
+  "run_config_json": "/kaggle/working/artifacts/run_config.json",
+  "metrics_summary_json": "/kaggle/working/artifacts/metrics_summary.json",
+  "reports_dir": "/kaggle/working/artifacts/reports",
+  "publication_pack_json": "/kaggle/working/artifacts/publication_pack.json",
+  "report_plot_count": 0
+}

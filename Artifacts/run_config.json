@@ -1,0 +1,23 @@
+{
+  "seed": 42,
+  "mode": "full",
+  "pipeline_stage": "ALL",
+  "auto_include_prerequisites": true,
+  "fast_dev_run": false,
+  "epochs": 4,
+  "batch_size": 2,
+  "num_workers": 2,
+  "lr": 0.005,
+  "scheduler_step_size": 3,
+  "scheduler_gamma": 0.1,
+  "grad_clip_norm": 5.0,
+  "det_score_thresh": 0.3,
+  "mot_score_thresh": 0.5,
+  "track_assoc_min_score": 0.4,
+  "det_topk_per_image": 30,
+  "track_vis_max_boxes": 20,
+  "max_frames": 400,
+  "use_local_copy": false,
+  "base_dir": "/kaggle/working",
+  "artifacts_dir": "/kaggle/working/artifacts"
+}
